@@ -62,9 +62,9 @@ content:
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Rock climbing
-      - Gaming
-      - Knitting
+      1. Rock climbing
+      2. Gaming
+      3. Knitting
 
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
