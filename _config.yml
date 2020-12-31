@@ -62,8 +62,8 @@ content:
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - M. Fishman, D. Jena, "Field-Tunable Topological Phase Transitions and Spin-Hall Effects in 2D Crystals", [arXiv:2012.09688](https://arxiv.org/abs/2012.09668)
-      - M.S. Thesis: M. Fishman, D. Jena, "Ballistic Transport and Large Spin Hall Effect in a Silicene MOSFET", [https://ecommons.cornell.edu/handle/1813/47763](https://ecommons.cornell.edu/handle/1813/47763)
+      - M. Fishman, D. Jena, "Field-Tunable Topological Phase Transitions and Spin-Hall Effects in 2D Crystals", [arXiv:2012.09688 (2020)](https://arxiv.org/abs/2012.09668)
+      - M.S. Thesis: M. Fishman, D. Jena, "Ballistic Transport and Large Spin Hall Effect in a Silicene MOSFET", [ecommons.cornell.edu/handle/1813/47763 (2017)](https://ecommons.cornell.edu/handle/1813/47763)
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
