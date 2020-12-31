@@ -59,12 +59,17 @@ content:
   #       link: https://arxiv.org/abs/2012.09668
   #       link_text: M. Fishman, D. Jena, arXiv:2012.09688
 
-  - title: Publications # Title for the section
-    layout: text # Type of content section (list/text)
-    content: |
-      Publication List
-      1. M. Fishman, D. Jena, "Field-Tunable Topological Phase Transitions and Spin-Hall Effects in 2D Crystals", [arXiv:2012.09688](https://arxiv.org/abs/2012.09668)
-      2. M.S. Thesis: M. Fishman, D. Jena, "Ballistic Transport and Large Spin Hall Effect in a Silicene MOSFET", [https://ecommons.cornell.edu/handle/1813/47763](https://ecommons.cornell.edu/handle/1813/47763)
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - Rock climbing
+      - Gaming
+      - Knitting
+      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+      Look at this cool image  
+      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
