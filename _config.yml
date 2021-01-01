@@ -83,6 +83,19 @@ content:
           - Managed SQL Server databases for all production lines.
           - Utilized Keras on top of Tensorflow to develop semiconductor defect detection computer vision software using convolutional neural networks.
       - layout: left
+        title: Rudewell LLC
+        # link: https://ii-vi.com/silicon-carbide-substrates-capabilities/
+        # link_text: boringcompany.com
+        sub_title: Co-owner & Software Engineer
+        caption: Jan. 2017 - Jan. 2020
+        description: | # this will include new lines to allow paragraphs
+          - Designed and implemented real-time applications using the Godot engine.
+          - Worked in a team of three to successfully develop and deploy applications targeted for iOS and Android.
+          - Responsibilities included: 
+            - project planning
+            - Timeline management
+            - Application prototyping and development
+      - layout: left
         title: Cornell University
         link: https://www.cornell.edu/
         sub_title: Research Assistant
@@ -126,7 +139,7 @@ content:
   #       #   sub_title: M.S. Applied Physics
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
