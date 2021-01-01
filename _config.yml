@@ -65,7 +65,7 @@ content:
       - M. Fishman, D. Jena, "Field-Tunable Topological Phase Transitions and Spin-Hall Effects in 2D Crystals", [arXiv:2012.09688 (2020)](https://arxiv.org/abs/2012.09668)
       - M.S. Thesis: M. Fishman, D. Jena, "Ballistic Transport and Large Spin Hall Effect in a Silicene MOSFET", [ecommons.cornell.edu/handle/1813/47763 (2017)](https://ecommons.cornell.edu/handle/1813/47763)
 
-  - title: Experience # Title for the section
+  - title: Work Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -82,6 +82,28 @@ content:
           - Developed SECS/GEM software for monitoring tool states.
           - Managed SQL Server databases for all production lines.
           - Utilized Keras on top of Tensorflow to develop semiconductor defect detection computer vision software using convolutional neural networks.
+      - layout: left
+        title: Cornell University
+        link: https://www.cornell.edu/
+        sub_title: Research Assistant
+        caption: May 2015 - Aug. 2015
+        description: | # this will include new lines to allow paragraphs
+          - Summer research assistant in Professor Debdeep Jena’s (Electrical and Computer Engineering department) group as a precursor to my graduate thesis.
+          - Computationally modeled electronic properties of 2D materials such as silicene, graphene, and transition metal dichalcogenides.
+          - Researched ballistic transistor modeling methods with primary focus on the Landauer approach originally employed by Kenji Natori. Discovered how to employ these methods using 2D materials.
+      - layout: left
+        title: Structured Materials Industries Inc.
+        link: https://www.smicvd.com/
+        sub_title: Mechanical Engineer
+        caption: Oct. 2017 - April 2013
+        description: | # this will include new lines to allow paragraphs
+          - Designed and built semiconductor and related low-pressure thin film chemical vapor deposition (CVD) equipment.
+          - Responsibilities included: 
+            - Component design using SolidWorks and AutoCAD
+            - Overseeing component installation
+            - Checking component operation
+            - Updating CVD system schematics to include new components and layouts
+            - Writing manuals for system assembly/disassembly
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -102,18 +124,6 @@ content:
   #       #   title: Cornell University
   #       #   caption: 2014 - 2016
   #       #   sub_title: M.S. Applied Physics
-
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
