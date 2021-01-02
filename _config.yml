@@ -127,17 +127,17 @@ content:
             - Updating CVD system schematics to include new components and layouts
             - Writing manuals for system assembly/disassembly
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Cornell University, Ithaca, NY, January 2017
-        # caption: 2014 - 2016
-        sub_title: "M.S. Applied Physics, GPA: 3.69"
-      - layout: top-middle
-        title: Rutgers University, Piscataway, NJ, May 2012
-        # caption: 2010 - 2012
-        sub_title: "B.S. Mechanical Engineering, GPA: 3.64"
+  # - title: Education # Title for the section
+  #   layout: list # Type of content section (list/text)
+  #   content:
+  #     - layout: top-middle
+  #       title: Cornell University
+  #       caption: 2014 - 2016
+  #       sub_title: "M.S. Applied Physics, GPA: 3.69"
+  #     - layout: top-middle
+  #       title: Rutgers University
+  #       caption: 2010 - 2012
+  #       sub_title: "B.S. Mechanical Engineering, GPA: 3.64"
 
   # - title: Education # Title for the section
   #     layout: text # Type of content section (list/text)
@@ -146,6 +146,25 @@ content:
   #       #   title: Cornell University
   #       #   caption: 2014 - 2016
   #       #   sub_title: M.S. Applied Physics
+
+  - title: Research Experience
+    layout: list
+    content:
+      - layout: left
+        title: Silicene Field Effect Transistor Transport Properties
+        link: https://ecommons.cornell.edu/handle/1813/47763
+        # link_text: boringcompany.com
+        sub_title: Under Dr. Debdeep Jena
+        caption: Jun. 2015 – Dec. 2016
+        # quote: >
+        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+          - Researched transport properties of silicene (monolayer silicon) and how the topologically non-trivial nature of silicene affects transport under perpendicular and transverse electric fields of varying strengths.
+          - Developed a computational current model for a silicene-channel independent double gate ballistic field effect transistor.
+            - Successfully modeled the source-drain current as well as transverse Hall currents.
+            - Discovered a unique transverse spin current that arises under a symmetric gate voltages due to silicene’s unique electronic properties.
+          - Wrote a thesis on model development and findings.
+
 
 # Footer
 footer_show_references: false
