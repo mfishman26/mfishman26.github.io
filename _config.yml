@@ -152,10 +152,10 @@ content:
     content:
       - layout: left
         title: Silicene Field Effect Transistor Transport Properties
-        link: https://ecommons.cornell.edu/handle/1813/47763
+        link: https://hdl.handle.net/1813/47763
         # link_text: boringcompany.com
         sub_title: Under Dr. Debdeep Jena
-        caption: Jun. 2015 – Dec. 2016
+        caption: Cornell University, Jun. 2015 – Dec. 2016
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
@@ -164,7 +164,48 @@ content:
             - Successfully modeled the source-drain current as well as transverse Hall currents.
             - Discovered a unique transverse spin current that arises under a symmetric gate voltages due to silicene’s unique electronic properties.
           - Wrote a thesis on model development and findings.
-
+      - layout: left
+        title: Transparent Luminescent Solar Concentrators
+        sub_title: Under Dr. David Muller
+        caption: Cornell University, Mar. 2015 - May 2015
+        description: |
+          - Investigated the recent advances of transparent luminescent solar concentrator technology for use in transparent solar cells and the viability of implementing this technology on a large scale.
+          - Presented findings at a university held poster session.
+      - layout: left
+        title: AFM Nanolithography
+        sub_title: Under Dr. Gregory Fuchs
+        caption: Cornell University, Mar. 2015 - May 2015
+        description: |
+          - Investigated the viability of force based AFM nanolithography as a patterning method compared to its competitors, such as photolithography and electron-beam lithography.
+          - Presented findings at a university held poster session.
+      - layout: left
+        title: Atomic Spin Detection with MRFM
+        sub_title: Under Dr. Lena Kourkoutis
+        caption: Cornell University, Oct. 2014 - Dec. 2014
+        description: |
+          - Investigated the current state of magnetic resonance force microscopy and in particular its capabilities concerning single spin detection.
+          - Used these results to quantitatively compare this characterization method to cryo-electron microscopy.
+      - layout: left
+        title: Personal Energy Harvesting Sensory system
+        sub_title: Under Dr. Jerry Shan
+        caption: Rutgers University, Sept. 2011 - May 2012
+        description: |
+          - Led a team of 3 colleagues to develop a solar, heat, and kinetic energy harvesting sensory system.
+            - Used solid state thermoelectric generators and a thin film piezoelectric oscillator.
+            - Worn by the user, the system measures calories expended, steps taken, and core body temperature.
+          - Sensory data is computed and wirelessly sent from the system to a computer for analysis.
+          - Data is graphically displayed and updated in real-time through a graphical user interface.
+          - Responsibilities included: o Budgettracking
+            - Researching thermoelectric generators
+            - Developing the wireless data sensory circuits and programs 
+            - Developing the graphical user interface
+      - layout: left
+        title: Computational Vehicle Roll Center Analysis
+        sub_title: Under Dr. Haim Baruh
+        caption: Rutgers University, Jan. 2012 - May 2012
+        description: |
+          - Researched vehicle roll characteristics and how they change due to alterations in suspension geometry and wheel displacement.
+          - Developed a vehicle simulation program, which models vehicle roll center location throughout a range of wheel displacements for any suspension geometry.
 
 # Footer
 footer_show_references: false
