@@ -65,6 +65,15 @@ content:
       - M. Fishman, D. Jena, "Field-Tunable Topological Phase Transitions and Spin-Hall Effects in 2D Crystals", [arXiv:2012.09688 (2020)](https://arxiv.org/abs/2012.09668)
       - M.S. Thesis: M. Fishman, D. Jena, "Ballistic Transport and Large Spin Hall Effect in a Silicene MOSFET", [ecommons.cornell.edu/handle/1813/47763 (2017)](https://ecommons.cornell.edu/handle/1813/47763)
 
+  - title: Education
+    layout: text
+    content: |
+      **Cornell University**, Ithaca, NY, January 2017 \
+      M.S. Applied Physics, **GPA: 3.69**
+
+      **Rutgers University**, Piscataway, NJ, May 2012 \
+      B.S. Mechanical Engineering, **GPA: 3.64**
+
   - title: Work Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -121,7 +130,7 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: Cornell University
         caption: 2014 - 2016
         sub_title: "M.S. Applied Physics, GPA: 3.69"
