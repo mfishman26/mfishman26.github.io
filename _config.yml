@@ -130,13 +130,13 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: Cornell University, Ithaca, NY, January 2017
-        caption: 2014 - 2016
+        # caption: 2014 - 2016
         sub_title: "M.S. Applied Physics, GPA: 3.69"
-      - layout: left
-        title: Rutgers University
-        caption: 2010 - 2012
+      - layout: top-middle
+        title: Rutgers University, Piscataway, NJ, May 2012
+        # caption: 2010 - 2012
         sub_title: "B.S. Mechanical Engineering, GPA: 3.64"
 
   # - title: Education # Title for the section
