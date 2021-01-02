@@ -68,11 +68,11 @@ content:
   - title: Education
     layout: text
     content: |
-      **Cornell University**, Ithaca, NY, January 2017 \
-      M.S. Applied Physics, **GPA: 3.69**
+      - **Cornell University**, Ithaca, NY, January 2017 \
+        M.S. Applied Physics, **GPA: 3.69**
 
-      **Rutgers University**, Piscataway, NJ, May 2012 \
-      B.S. Mechanical Engineering, **GPA: 3.64**
+      - **Rutgers University**, Piscataway, NJ, May 2012 \
+        B.S. Mechanical Engineering, **GPA: 3.64**
 
   - title: Work Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -131,10 +131,10 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Cornell University
+        title: Cornell University, Ithaca, NY, January 2017
         caption: 2014 - 2016
         sub_title: "M.S. Applied Physics, GPA: 3.69"
-      - layout: top-middle
+      - layout: left
         title: Rutgers University
         caption: 2010 - 2012
         sub_title: "B.S. Mechanical Engineering, GPA: 3.64"
