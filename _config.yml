@@ -48,7 +48,7 @@ additional_links:
 about_title: About Me
 # about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  My name is Maxwell Fishman and I am a data engineer at II-VI Inc., Advanced Materials Division. My primary fields of intersest are machine learning, condensed matter physics, and quantum computation. In particular, I am fascinated by the application of machine learning algorithms to condensed matter research.
+  My name is Maxwell Fishman and I am a data engineer at II-VI Inc., Advanced Materials Division. My primary fields of interest are machine learning, condensed matter physics, and quantum computation. In particular, I am fascinated by the application of machine learning algorithms to condensed matter research.
 
 content:
   # - title: Publications # Title for the section
