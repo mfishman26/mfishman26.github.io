@@ -162,7 +162,7 @@ content:
           - Researched transport properties of silicene (monolayer silicon) and how the topologically non-trivial nature of silicene affects transport under perpendicular and transverse electric fields of varying strengths.
           - Developed a computational current model for a silicene-channel independent double gate ballistic field effect transistor.
             - Successfully modeled the source-drain current as well as transverse Hall currents.
-            - Discovered a unique transverse spin current that arises under a symmetric gate voltages due to silicene’s unique electronic properties.
+            - Discovered a unique transverse spin current that arises under asymmetric gate voltages due to silicene’s unique electronic properties.
           - Wrote a thesis on model development and findings.
       - layout: left
         title: Transparent Luminescent Solar Concentrators
@@ -195,7 +195,8 @@ content:
             - Worn by the user, the system measures calories expended, steps taken, and core body temperature.
           - Sensory data is computed and wirelessly sent from the system to a computer for analysis.
           - Data is graphically displayed and updated in real-time through a graphical user interface.
-          - Responsibilities included: o Budgettracking
+          - Responsibilities included: 
+            - Budget tracking
             - Researching thermoelectric generators
             - Developing the wireless data sensory circuits and programs 
             - Developing the graphical user interface
