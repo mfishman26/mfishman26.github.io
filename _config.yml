@@ -80,9 +80,20 @@ content:
       - layout: left
         title: II-VI Inc.
         link: https://ii-vi.com/silicon-carbide-substrates-capabilities/
+        sub_title: Senior Data Engineer
+        caption: September 2021 - Present
+        # description: | # this will include new lines to allow paragraphs
+        #   - Develop data analytics pipelines for tracking and analyzing SiC substrate R&D and production.
+        #   - Statistical process control development using python, C#, and VBA.
+        #   - Developed SECS/GEM software for monitoring tool states.
+        #   - Managed SQL Server databases for all production lines.
+        #   - Utilized Keras on top of Tensorflow to develop semiconductor defect detection computer vision software using convolutional neural networks.
+      - layout: left
+        title: II-VI Inc.
+        link: https://ii-vi.com/silicon-carbide-substrates-capabilities/
         # link_text: boringcompany.com
         sub_title: Data Engineer
-        caption: December 2017 - Present
+        caption: December 2017 - September 2021
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
